@@ -1,0 +1,9 @@
+{
+  "short_name": "AI Creator",
+  "name": "AI Creator - генерация изображений и текста",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
