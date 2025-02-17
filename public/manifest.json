@@ -1,6 +1,6 @@
 {
-  "short_name": "AI Creator",
-  "name": "AI Creator - генерация изображений и текста",
+  "short_name": "ChatGPTi",
+  "name": "ChatGPTi - генерация изображений и текста",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
